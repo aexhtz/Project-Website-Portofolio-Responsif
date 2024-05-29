@@ -111,8 +111,9 @@ main {
 .sidebar-container {
     position: fixed;
     display: flex;
+    scale: 80%;
 }
 
 .sidebar-line {
-
+    margin-right: 1250px;   
 }
