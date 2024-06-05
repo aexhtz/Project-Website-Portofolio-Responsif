@@ -159,16 +159,17 @@ ul {
 
 .aboutme-text-header {
     display: flex;
-    align-items: space-between;
+    align-items: center;
 }
 
 .aboutme-text-garis {
-    rotate: 90deg;
-    display: flex;
+    width: 20vw;
+    margin-bottom: 0.3vh;
 }
 
 .aboutme-text-inti {
     font-size: 2.5vh;
+    margin-bottom: 1vh;
 }
 
 .aboutme-text-deskripsi-satu {
@@ -224,11 +225,14 @@ ul {
 
 .listprogram {
     padding: 10px;
+    line-height: 0px;
+    align-items: center;
 }
 
 .listsoftware {
     color: #FD0000;
     padding: 10px;
+    line-height: 0px;
 }
 
 /* PORTOFOLIO */
