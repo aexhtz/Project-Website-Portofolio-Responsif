@@ -163,8 +163,9 @@ ul {
 }
 
 .aboutme-text-garis {
-    width: 20vw;
+    width: 23vw;
     margin-bottom: 0.3vh;
+    margin-right: 0.25vh;
 }
 
 .aboutme-text-inti {
@@ -186,7 +187,7 @@ ul {
 
 .aboutme-gambarutama {
     border-radius: 50%;
-    scale: 80%;
+    scale: 70%;
     margin-left: 10vw;
 }
 
@@ -247,6 +248,7 @@ ul {
 .portofolio-text-garis {
     width: 20vw;
     margin-bottom: 0.3vh;
+    margin-left: 5vw;
 }
 
 .portofolio-text-inti {
