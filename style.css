@@ -208,16 +208,27 @@ ul {
     font-size: 2vh;
 }
 
-.listprogram {
+.borderprogram {
     border-radius: 35px;
+    height: 25px;
+    align-content: center;
     background: #FD0000;
 }
 
-.listsoftware {
+.bordersoftware {
     border-radius: 35px;
     background: #FFFFFF;
-    text-align: center;
+    align-content: center;
+    height: 25px;
+}
+
+.listprogram {
+    padding: 10px;
+}
+
+.listsoftware {
     color: #FD0000;
+    padding: 10px;
 }
 
 /* PORTOFOLIO */
