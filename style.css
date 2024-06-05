@@ -141,20 +141,22 @@ ul {
     transition: ease-in 0.1s;
 }
 
+/* ABOUT ME */
 #aboutme {
     color: white;
 }
 
 .aboutme-section {
-    background-color: red;
+    background-color: blue;
     height: 100vh;
 }
 
+/* PORTOFOLIO */
 #portofolio {
     color: white;
 }
 
 .portofolio-section {
-    background-color: blue;
+    background-color: purple;
     height: 100vh;
 }
