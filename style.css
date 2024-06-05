@@ -147,8 +147,45 @@ ul {
 }
 
 .aboutme-section {
-    background-color: blue;
     height: 100vh;
+}
+
+.aboutme-text-header {
+    top: 10vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutme-text-garis {
+    rotate: 90deg;
+}
+
+.aboutme-text-inti {
+    font-size: 2.5vh;
+    margin-bottom: 3vh;
+}
+
+.aboutme-text-deskripsi-satu {
+    font-size: 2.1vh;
+}
+
+.aboutme-text-deskripsi-dua {
+    font-size: 2.1vh;
+}
+
+.aboutme-text-deskripsi-bawah {
+    display: flex;
+    left: 0;
+    bottom: 0;
+}
+
+.aboutme-list-programming {
+    font-size: 2vh;
+}
+
+.aboutme-gambarutama {
+    border-radius: 50%;
+    scale: 80%;
 }
 
 /* PORTOFOLIO */

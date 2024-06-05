@@ -94,6 +94,10 @@ body {
     filter: invert(1); /* Membuat ikon menjadi putih */
 }
 
+.aboutme-gambar {
+    border-radius: 50%;
+}
+
 /* Media Queries untuk Responsif */
 @media (max-width: 768px) {
     .main-content {
