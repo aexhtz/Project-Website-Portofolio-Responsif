@@ -158,18 +158,17 @@ ul {
 }
 
 .aboutme-text-header {
-    top: 10vh;
     display: flex;
-    flex-direction: row;
+    align-items: space-between;
 }
 
 .aboutme-text-garis {
     rotate: 90deg;
+    display: flex;
 }
 
 .aboutme-text-inti {
     font-size: 2.5vh;
-    margin-bottom: 3vh;
 }
 
 .aboutme-text-deskripsi-satu {
@@ -182,27 +181,36 @@ ul {
 
 .aboutme-text-deskripsi-bawah {
     display: flex;
-    left: 0;
-    bottom: 0;
-}
-
-.aboutme-list-programming {
-    font-size: 2vh;
 }
 
 .aboutme-gambarutama {
     border-radius: 50%;
     scale: 80%;
+    margin-left: 10vw;
 }
 
 .aboutme-strong {
     color: #FD0000;
 }
 
+.ul-list-programming {
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+    font-size: 2vh;
+}
+
+.ul-list-software {
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+    margin-top: 2vh;
+    font-size: 2vh;
+}
+
 .listprogram {
     border-radius: 35px;
     background: #FD0000;
-    text-align: center;
 }
 
 .listsoftware {
