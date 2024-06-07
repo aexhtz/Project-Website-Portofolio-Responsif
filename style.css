@@ -261,6 +261,31 @@ ul {
     align-items: center;
 }
 
+.kotakatas,
+.kotaktengah,
+.kotakbawah {
+    padding-bottom: 4vh;
+}
+
+.ul-kotakatas {
+    gap: 3vw;
+}
+
+.ul-kotaktengah {
+    gap: 3vw;
+}
+
+.ul-kotakbawah {
+    gap: 3vw;
+}
+
+.kotakcss {
+    border-radius: 15px;
+    background: white;
+    height: 15vh;
+    width: 15vh;
+}
+
 /* CONTACT */
 #contact {
     color: white;
