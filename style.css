@@ -238,15 +238,18 @@ ul {
 
 /* PORTOFOLIO */
 #portofolio {
-    color: white;
+    color: white;   
+    background: purple;
 }
 
 .portofolio-section {
     height: 100vh;
+    max-height: 100vh;
+    flex-direction: column-reverse;
 }
 
 .portofolio-text-garis {
-    width: 20vw;
+    width: 25vw;
     margin-bottom: 0.3vh;
     margin-left: 5vw;
 }
@@ -261,29 +264,53 @@ ul {
     align-items: center;
 }
 
-.kotakatas,
-.kotaktengah,
-.kotakbawah {
-    padding-bottom: 4vh;
+.kumpulan-kotak {
+    display: flex;
+    flex-direction: column;
 }
 
 .ul-kotakatas {
     gap: 3vw;
+    padding-bottom: 4vh;
+    display: flex;
 }
 
 .ul-kotaktengah {
     gap: 3vw;
+    padding-bottom: 4vh;
+    display: flex;
 }
 
 .ul-kotakbawah {
     gap: 3vw;
+    padding-bottom: 4vh;
+    display: flex;
 }
 
 .kotakcss {
-    border-radius: 15px;
-    background: white;
+    background: #D9D9D9;
     height: 15vh;
     width: 15vh;
+}
+
+.atas1,
+.gambar-atas1 {
+    border-radius: 35px 0px 0px 0px;
+}
+
+.bawah1,
+.gambar-bawah1 {
+    border-radius: 0px 0px 0px 35px;
+}
+
+.atas4,
+.gambar-atas4 {
+    border-radius: 0px 35px 0px 0px;
+}
+
+.bawah4,
+.gambar-bawah4 {
+    border-radius: 0px 0px 35px 0px;
 }
 
 /* CONTACT */
