@@ -354,10 +354,17 @@ ul {
     text-align: center;
 }
 
+.button1 {
+    display: flex;
+    justify-content: center;
+    scale: 130%;
+    padding: 12px;
+}
+
 .btn-sayhello {
     background: #FD0000;
     border-style: none;
-    height: 6.8vh;
+    height: 50px;
     border-radius: 500px;
     width: 110px;
     display: flex;
@@ -368,13 +375,6 @@ ul {
     font-size: 1rem;
     font-family: 'Poppins', sans-serif;
     cursor: pointer;
-}
-
-.button1 {
-    display: flex;
-    justify-content: center;
-    scale: 130%;
-    padding: 12px;
 }
 
 .button1:hover {
