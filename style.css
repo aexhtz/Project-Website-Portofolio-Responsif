@@ -239,13 +239,13 @@ ul {
 /* PORTOFOLIO */
 #portofolio {
     color: white;   
-    background: purple;
 }
 
 .portofolio-section {
     height: 100vh;
     max-height: 100vh;
-    flex-direction: column-reverse;
+    flex-direction: column;
+    gap: 5vh;
 }
 
 .portofolio-text-garis {
