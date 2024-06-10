@@ -245,7 +245,7 @@ ul {
     height: 100vh;
     max-height: 100vh;
     flex-direction: column;
-    gap: 5vh;
+    gap: 4vh;
 }
 
 .portofolio-text-garis {
@@ -319,6 +319,28 @@ ul {
 }
 
 .contact-section {
-    background-color: rgb(131, 131, 54);
     height: 100vh;
+}
+
+.getin {
+    display: flex;
+    justify-content: center;
+}
+
+.paragrafcontact {
+    text-align: center;
+}
+
+.btn-sayhello {
+    background: red;
+    border-style: none;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.button1 {
+    display: flex;
+    justify-content: center;
 }
