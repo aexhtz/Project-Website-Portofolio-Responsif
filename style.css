@@ -270,7 +270,7 @@ ul {
 }
 
 .ul-kotakatas {
-    gap: 3vw;
+    gap: 2.5vw;
     padding-bottom: 4vh;
     display: flex;
     overflow: hidden;
@@ -283,7 +283,7 @@ ul {
 }
 
 .ul-kotaktengah {
-    gap: 3vw;
+    gap: 2.5vw;
     padding-bottom: 4vh;
     display: flex;
     overflow: hidden;
@@ -296,7 +296,7 @@ ul {
 }
 
 .ul-kotakbawah {
-    gap: 3vw;
+    gap: 2.5vw;
     padding-bottom: 4vh;
     display: flex;
     overflow: hidden;
