@@ -352,6 +352,7 @@ ul {
 
 .paragrafcontact {
     text-align: center;
+    font-size: 2.2vh;
 }
 
 .button1 {
@@ -364,7 +365,7 @@ ul {
 .btn-sayhello {
     background: #FD0000;
     border-style: none;
-    height: 50px;
+    height: 43px;
     border-radius: 500px;
     width: 110px;
     display: flex;
