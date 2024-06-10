@@ -1,0 +1,5 @@
+.btn-sayhello:active {
+    background: #FFFFFF;
+    color: #FD0000;
+    transition: 0.2s ease;
+}
