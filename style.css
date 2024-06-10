@@ -355,7 +355,7 @@ ul {
 }
 
 .btn-sayhello {
-    background: red;
+    background: #FD0000;
     border-style: none;
     height: 6.8vh;
     border-radius: 500px;
@@ -375,4 +375,15 @@ ul {
     justify-content: center;
     scale: 130%;
     padding: 12px;
+}
+
+.button1:hover {
+    scale: 140%;
+    transition: 0.2s ease-out;
+}
+
+.btn-sayhello:active {
+    background: #FFFFFF;
+    color: #FD0000;
+    transition: 0.2s ease;
 }
