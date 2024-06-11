@@ -3,3 +3,7 @@
     color: #FD0000;
     transition: 0.2s ease;
 }
+
+.navbar-container-text:active {
+    color: #FD0000;
+}

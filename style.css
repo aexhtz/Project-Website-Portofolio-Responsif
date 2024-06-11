@@ -70,11 +70,6 @@ ul {
     font-weight: 600;
 }
 
-.navbar-container-text:active {
-    color: #FD0000;
-    transition: 0.2s ease;
-}
-
 .home-section {
     height: 100vh;
 }
