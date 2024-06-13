@@ -7,3 +7,7 @@
 .navbar-container-text:active {
     color: #FD0000;
 }
+
+.fa-brands:active {
+    scale: 65%;
+}
